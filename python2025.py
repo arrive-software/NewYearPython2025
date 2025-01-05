@@ -1,5 +1,5 @@
 #This program is released under license GNU GENERAL PUBLIC LICENSEv3
-#Copyright 2024,2025 Jason Lee
+#Copyright 2024,2025 Jason Lee(p299-dev)
 #This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation,
 #  either version 3 of the License, or (at your option) any later version.
 #This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
